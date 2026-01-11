@@ -12,7 +12,7 @@ const milkProduct = {
   sizes: [
     {
       size: "1 Liter",
-      price: "₹60",
+      price: "₹55",
       description: "Perfect for daily needs, ideal for families starting out",
     },
     {
@@ -22,7 +22,7 @@ const milkProduct = {
     },
     {
       size: "5 Liter",
-      price: "₹260",
+      price: "₹275",
       description: "Best for bulk users, covers your weekly needs",
     },
   ],
@@ -39,7 +39,7 @@ const dairyProducts = [
     name: "Curd",
     icon: "🍲",
     description: "Creamy, nutritious homemade curd",
-    sizes: ["500g", "1kg"],
+    sizes: ["250g - ₹30", "500g - ₹60" , "1kg - ₹120"],
     benefits: ["Rich probiotics", "Freshly made daily", "Ideal for health"],
     color: "bg-yellow-50",
   },
@@ -47,7 +47,7 @@ const dairyProducts = [
     name: "Ghee",
     icon: "🧈",
     description: "Pure, organic ghee made from premium milk",
-    sizes: ["250ml", "500ml"],
+    sizes: ["250ml - ₹400", "500ml - ₹800" , "1000ml - ₹1600"],
     benefits: ["Traditional method", "High smoke point", "Rich, pure taste"],
     color: "bg-orange-50",
   },
@@ -55,7 +55,7 @@ const dairyProducts = [
     name: "Butter",
     icon: "🧈",
     description: "Fresh, creamy butter perfect for cooking",
-    sizes: ["200g", "500g"],
+    sizes: ["250g - ₹115", "500g - ₹230" , "1kg - ₹450"],
     benefits: ["No preservatives", "Freshly churned", "Golden color"],
     color: "bg-amber-50",
   },
@@ -63,7 +63,7 @@ const dairyProducts = [
     name: "Paneer",
     icon: "⬜",
     description: "Fresh, soft paneer for your kitchen",
-    sizes: ["200g", "400g"],
+    sizes: ["250g - ₹115 ", "500g - ₹230" , "1kg - ₹450"],
     benefits: ["High protein content", "Soft texture", "Freshly made"],
     color: "bg-purple-50",
   },

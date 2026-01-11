@@ -83,7 +83,7 @@ export default function DeliveryPage() {
               <p className="text-gray-600 mb-6">Perfect for daily milk needs</p>
               <div className="mb-8">
                 <p className="text-sm text-gray-600 mb-2">Starting from</p>
-                <p className="text-4xl font-bold text-green-700">₹60/day</p>
+                <p className="text-4xl font-bold text-green-700">₹55/day</p>
               </div>
               <ul className="space-y-3 mb-8 flex-grow">
                 {[
@@ -113,7 +113,7 @@ export default function DeliveryPage() {
               <p className="text-gray-600 mb-6">Best value for regular users</p>
               <div className="mb-8">
                 <p className="text-sm text-gray-600 mb-2">Starting from</p>
-                <p className="text-4xl font-bold text-green-700">₹400/week</p>
+                <p className="text-4xl font-bold text-green-700">₹385/week</p>
                 <p className="text-sm text-gray-600 mt-2">Save 5% vs daily rate</p>
               </div>
               <ul className="space-y-3 mb-8 flex-grow">
@@ -142,7 +142,7 @@ export default function DeliveryPage() {
               <p className="text-gray-600 mb-6">Maximum savings on bulk</p>
               <div className="mb-8">
                 <p className="text-sm text-gray-600 mb-2">Starting from</p>
-                <p className="text-4xl font-bold text-green-700">₹1,600/month</p>
+                <p className="text-4xl font-bold text-green-700">₹1,650/month</p>
                 <p className="text-sm text-gray-600 mt-2">Save 10% vs daily rate</p>
               </div>
               <ul className="space-y-3 mb-8 flex-grow">

@@ -18,7 +18,7 @@ export default function Header() {
   return (
     <header className="sticky top-0 z-50 bg-white border-b border-border">
       <div className="max-w-6xl mx-auto px-4 py-4 flex justify-between items-center">
-        <Link href="/" className="text-2xl font-bold text-green-700">
+        <Link href="/" className="text-2xl font-bold italic text-green-700">
           Sanu Dairy
         </Link>
 
