@@ -137,10 +137,10 @@ export default function AboutPage() {
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="tel:+919155936738"
+              href="tel:+919341556196"
               className="px-8 py-4 bg-white text-green-700 font-semibold rounded-full hover:bg-green-50 transition-colors text-center"
             >
-              Call Now: +91 9155936738
+              Call Now: +91 9341556196
             </a>
           </div>
         </div>

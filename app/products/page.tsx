@@ -192,7 +192,7 @@ export default function ProductsPage() {
               <div>
                 <h3 className="text-xl font-bold text-gray-900 mb-2">Call to Order</h3>
                 <p className="text-gray-600">
-                  Contact us at <span className="font-semibold">+91 9155936738</span> to place your order or set up a
+                  Contact us at <span className="font-semibold">+91 9341556196</span> to place your order or set up a
                   subscription.
                 </p>
               </div>
@@ -219,10 +219,10 @@ export default function ProductsPage() {
           <h2 className="text-4xl md:text-5xl font-bold text-white">Ready to Order?</h2>
           <p className="text-xl text-green-100">Call us today to place your order or set up a subscription.</p>
           <a
-            href="tel:+919155936738"
+            href="tel:+919341556196"
             className="inline-block px-8 py-4 bg-white text-green-700 font-semibold rounded-full hover:bg-green-50 transition-colors"
           >
-            Call +91 9155936738
+            Call +91 9341556196
           </a>
         </div>
       </section>

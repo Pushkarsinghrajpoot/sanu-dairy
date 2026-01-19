@@ -34,7 +34,7 @@ export default function Header() {
         {/* Desktop CTA */}
         <div className="hidden md:flex gap-3">
           <a
-            href="tel:+919155936738"
+            href="tel:+919341556196"
             className="px-4 py-2 bg-green-700 text-white rounded-full hover:bg-green-800 transition-colors"
           >
             Call Now
@@ -57,7 +57,7 @@ export default function Header() {
               </Link>
             ))}
             <a
-              href="tel:+919155936738"
+              href="tel:+919341556196"
               className="w-full px-4 py-2 bg-green-700 text-white rounded-full hover:bg-green-800 transition-colors text-center"
             >
               Call Now

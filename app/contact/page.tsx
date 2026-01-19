@@ -302,10 +302,10 @@ export default function ContactPage() {
             Questions? We're here to help. Call us or send a message - we respond quickly.
           </p>
           <a
-            href="tel:+919155936738"
+            href="tel:+919341556196"
             className="inline-block px-8 py-4 bg-white text-green-700 font-semibold rounded-full hover:bg-green-50 transition-colors"
           >
-            Call Now: +91 9155936738
+            Call Now: +91 9341556196
           </a>
         </div>
       </section>

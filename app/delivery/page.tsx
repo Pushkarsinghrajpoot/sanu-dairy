@@ -333,10 +333,10 @@ export default function DeliveryPage() {
           <p className="text-xl text-green-100">Join hundreds of families enjoying fresh milk every morning.</p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <a
-              href="tel:+919155936738"
+              href="tel:+919341556196"
               className="inline-block px-8 py-4 bg-white text-green-700 font-semibold rounded-full hover:bg-green-50 transition-colors"
             >
-              Call +91 9155936738
+              Call +91 9341556196
             </a>
             <a
               href="/contact"

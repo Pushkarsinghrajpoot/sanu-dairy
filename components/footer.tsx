@@ -40,8 +40,8 @@ export default function Footer() {
             <h4 className="font-bold mb-4">Contact</h4>
             <ul className="space-y-2 text-sm text-gray-300">
               <li>
-                <a href="tel:+919155936738" className="hover:text-green-400 transition-colors">
-                  +91 9155936738
+                <a href="tel:+919341556196" className="hover:text-green-400 transition-colors">
+                  +91 9341556196
                 </a>
               </li>
               <li>Aurangabad, Bihar</li>
